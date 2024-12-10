@@ -12,6 +12,22 @@
 - Implement clean code practices and follow the **SOLID principles**.
 - Continuously learn to improve my back-end development skills.
 
+## Elvin's GitHub Stats:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3>GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=Elvin5002&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3>Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin5002&layout=compact&theme=radical" alt="Most Used Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvin5002&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin5002&layout=compact&theme=radical)
 
