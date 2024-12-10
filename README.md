@@ -13,7 +13,7 @@
 - Continuously learn to improve my back-end development skills.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvin2002&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2002&layout=compact&theme=radical
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2002&layout=compact&theme=radical)
 
 ## Highlights:
 - 🌟 TechNest Scholarship Winner for Mobile Development.
@@ -27,6 +27,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2002&layout=
 
 
 ## Let's Connect:
-- 🌐 [GitHub](https://github.com/ElvinSeyfullayev)
-- 💼 [LinkedIn](https://linkedin.com/in/ElvinSeyfullayev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/elvinseyfullayev/)
 - 📧 Email: eseyfullayev51@gmail.com
