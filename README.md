@@ -12,8 +12,8 @@
 - Implement clean code practices and follow the **SOLID principles**.
 - Continuously learn to improve my back-end development skills.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvin2002&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2002&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvin5002&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin5002&layout=compact&theme=radical)
 
 ## Highlights:
 - 🌟 TechNest Scholarship Winner for Mobile Development.
