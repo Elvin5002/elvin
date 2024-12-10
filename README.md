@@ -13,7 +13,7 @@
 - Continuously learn to improve my back-end development skills.
 
 ## Elvin's GitHub Stats:
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" valign="top" width="50%">
@@ -27,9 +27,6 @@
     </tr>
   </table>
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvin5002&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin5002&layout=compact&theme=radical)
 
 ## Highlights:
 - 🌟 TechNest Scholarship Winner for Mobile Development.
